@@ -26,5 +26,6 @@ Before making any decisions about your CPU, research each CPU's benchmark perfor
 
 Once you've done your research and know the processor you want, you are ready to pick out your motherboard.  The reason I'm covering the CPU first is that CPU's have socket sizes and shapes.  As a result, not every CPU works with every motherboard.  We will cover motherboard form factors in the next section.  
 
-BACK  NEXT
-HOME
+[BACK](https://github.com/kportell/BuildAPC/blob/main/Computer%20Needs.md)  [NEXT](https://github.com/kportell/BuildAPC/blob/main/Motherboard.md)
+
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)
