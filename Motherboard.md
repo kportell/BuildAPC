@@ -15,5 +15,6 @@ ITX is used for small computers that need to fit in small spaces.  There are two
 
 As you can see, size matters when it comes to motherboards.  Deciding whether you want a full on desktop PC or a lower profile PC that takes space into consideration will guide the choosing process.  Make sure you do your research.  Things to consider are the socket type of your processor, the amount of RAM and type of RAM you want, and how many additional devices will need to be connected to it.  
 
-BACK  NEXT
-HOME
+[BACK](https://github.com/kportell/BuildAPC/blob/main/CPU.md)  [NEXT](https://github.com/kportell/BuildAPC/blob/main/RAM.md)
+
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)
