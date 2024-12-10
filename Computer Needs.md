@@ -15,9 +15,13 @@ First thing we need to do is determine WHAT you need the PC to do.  You will nee
 Its important to define what you need before hand and not as you go.  The planning process is very important.  Performance, budget, space and power requirements needs to be clearly defined before you start purchasing parts.  Its also important to know WHERE to purchase your parts.  Below I have listed a few good sites for purchasing quality parts at reasonable prices.  
 
 www.newegg.com
+
 www.cdw.com
+
 www.amazon.com
+
 www.pricewatch.com
+
 www.ebay.com
 
 Additionally, look locally for computer parts stores.  Midwest stores like MicroCenter and Fries Electronics provide a wide array of parts with solid warranties and return policies.  There are literally hundreds of different stores like this nation wide.  Search for local stores in your area.  
