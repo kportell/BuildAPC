@@ -23,5 +23,6 @@ A firewall is a program that protects your computer from outside threats attempt
 #### Operating System Updates
 One of the most important thing you will do for your computer is make sure the OS is up to date with the latest security patches and updates.  Windows Update can be set to automatic during OS installation and I highly recommend this.  Updates patch security holes in your OS, provide updated drivers, and code feature updates.  Its important to always keep your PC up to date.  
 
-BACK  NEXT
-HOME
+[BACK](https://github.com/kportell/BuildAPC/blob/main/Peripherals.md)  [NEXT](https://github.com/kportell/BuildAPC/blob/main/Summary.md)
+
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)
