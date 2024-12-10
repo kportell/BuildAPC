@@ -19,5 +19,6 @@ SODIMM - Small Outline Dual Inline Memory Module - half the size of a DIMM and i
 
 As a general rule its always good to have more memory than you need than less.  However, how much memory you can use is dependent on your motherboard.  RAM must be considered during your research of your motherboard.  An otherwise good system can be hamstrung by not having enough RAM.  
 
-BACK  NEXT
-HOME
+[BACK](https://github.com/kportell/BuildAPC/blob/main/Motherboard.md)  [NEXT](https://github.com/kportell/BuildAPC/blob/main/Storage.md)
+
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)
