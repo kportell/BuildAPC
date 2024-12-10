@@ -32,4 +32,4 @@ USB - Universal Serial Bus - a fast method of transferring data commonly used to
 HDMI - High Definition MultiMedia Interface - Transmits audio and video at very hi resolution. 
 
 
-HOME  NEXT 
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)  [NEXT](https://github.com/kportell/BuildAPC/blob/main/Computer%20Needs.md) 
