@@ -9,15 +9,15 @@ This tutorial will be broke up into 10 sections.  The first section will deal wi
 
 But enough with the explanations, lets get started discovering what you need to build your first PC!
 
-1. Terms
-2. Computer Needs
-3. CPU
-4. Motherboard
-5. RAM
-6. Storage
-7. Case and Power Supply
-8. Peripherals 
-9. Software and Security
-10. Summary
+1. [Terms](https://github.com/kportell/BuildAPC/blob/main/Terms.md)
+2. [Computer Needs](https://github.com/kportell/BuildAPC/blob/main/Computer%20Needs.md)
+3. [CPU](https://github.com/kportell/BuildAPC/blob/main/CPU.md)
+4. [Motherboard](https://github.com/kportell/BuildAPC/blob/main/Motherboard.md)
+5. [RAM](https://github.com/kportell/BuildAPC/blob/main/RAM.md)
+6. [Storage](https://github.com/kportell/BuildAPC/blob/main/Storage.md)
+7. [Case and Power Supply](https://github.com/kportell/BuildAPC/blob/main/Case%20and%20Power%20Supply.md)
+8. [Peripherals](https://github.com/kportell/BuildAPC/blob/main/Peripherals.md) 
+9. [Software and Security](https://github.com/kportell/BuildAPC/blob/main/Software%20and%20Security.md)
+10. [Summary](https://github.com/kportell/BuildAPC/blob/main/Summary.md)
 
-NEXT
+[NEXT](https://github.com/kportell/BuildAPC/blob/main/Terms.md)
