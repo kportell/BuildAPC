@@ -22,6 +22,6 @@ www.ebay.com
 
 Additionally, look locally for computer parts stores.  Midwest stores like MicroCenter and Fries Electronics provide a wide array of parts with solid warranties and return policies.  There are literally hundreds of different stores like this nation wide.  Search for local stores in your area.  
 
-BACK  NEXT
+[BACK](https://github.com/kportell/BuildAPC/blob/main/Terms.md)  [NEXT](https://github.com/kportell/BuildAPC/blob/main/CPU.md)
 
-HOME
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)
