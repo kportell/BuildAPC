@@ -3,5 +3,6 @@ I hope you've enjoyed this short tutorial on building your own PC.  Building and
 
 In the next tutorial we will put together your PC and create a template you can use for future project builds.  
 
-BACK
-HOME
+[BACK](https://github.com/kportell/BuildAPC/blob/main/Software%20and%20Security.md)
+
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)
