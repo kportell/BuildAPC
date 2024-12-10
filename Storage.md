@@ -9,5 +9,6 @@ Solid State Drive's use circuit boards to store date.  It is faster than HDD's a
 
 The price of HDD"s make it ideal for normal computer storage of files and objects.  But the speed and durability of SSD's make it ideal for Operating Systems and storage you need to access quickly like game files.  This makes the hybrid approach to storage very appealing.  The hybrid approach uses multiple drives.  The SSD is used for the OS to provide fast storage for OS files and install programs.  The HDD is usually bigger and provides mass storage for files and objects that don't require lightening fast access.  HDD and SSD connectors use the same power connectors, and modern motherboards provide a port for both HDD and SSD drives.  
 
-BACK  NEXT
-HOME
+[BACK](https://github.com/kportell/BuildAPC/blob/main/RAM.md)  [NEXT](https://github.com/kportell/BuildAPC/blob/main/Case%20and%20Power%20Supply.md)
+
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)
