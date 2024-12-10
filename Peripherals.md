@@ -15,5 +15,6 @@ Keyboards allow you to input information into the computer via keys representing
 #### Monitor
 The monitor you get will need a good amount of research as well as a very detailed understanding of what you need it for.  Most modern monitors connect via HDMI cables designed to transmit high resolution graphics.  A monitors resolution, size, and shape are all important to your ideal set up.  If you are sitting close to the monitor, you want a size that allows you to see the screen comfortably.  You'll also need to balance budget with video needs.  A true 4k display may be a nice addition, but remain out of budget.  Do you need one monitor, or two? Often times business needs dictate the need for two monitor or more.  
 
-BACK  NEXT
-HOME
+[BACK](https://github.com/kportell/BuildAPC/blob/main/Case%20and%20Power%20Supply.md)  [NEXT](https://github.com/kportell/BuildAPC/blob/main/Software%20and%20Security.md)
+
+[HOME](https://github.com/kportell/BuildAPC/blob/main/README.md)
